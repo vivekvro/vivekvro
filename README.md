@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vivekvro
 - 👀 I’m interested in (Don't Know)
 - 🌱 I’m currently learning Machine-Learning
-- 📫 How to reach me viveksinghx7@gmail.com / Insta ID @vivekvro
+- 📫 How to reach me viveksinghx7@gmail.com / Insta ID : @vivekvro
 - ⚡ Fun fact: I'm also a Learner 
 
 <!---
