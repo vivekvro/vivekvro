@@ -10,7 +10,6 @@ especially after overcoming initial struggles in my early school years.
 - 🎓 **Education**: Currently pursuing a Bachelor of Computer Applications (BCA) from IGNOU.
 - 🎯 **Goals**: My goal is to become proficient in data science and contribute to innovative projects in AI and machine learning.
 - 💻 **Projects**: I enjoy working on various data science projects, from data preprocessing to data visualization.
-- 📚 **Courses**: Completed the Data Science Foundation course from Great Learning Platform.
 
 ## Interests
 
